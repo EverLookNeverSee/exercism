@@ -564,3 +564,4 @@
 /venv/lib64/
 /venv/lib64/
 /venv/
+*.json
