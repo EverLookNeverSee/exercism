@@ -1,4 +1,9 @@
 def convert(number) -> str:
+    """
+    convert a number into a string
+    :param number: integer
+    :return: string
+    """
     drops = ""
     if number % 3 == 0:
         drops += "Pling"
