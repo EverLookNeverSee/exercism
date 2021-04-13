@@ -565,3 +565,4 @@
 /venv/lib64/
 /venv/
 *.json
+/.idea/

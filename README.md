@@ -21,6 +21,11 @@ Milad Sadeghi DM : [@EverLookNeverSee](https://github.com/EverLookNeverSee)
   * [description](python/raindrops/README.md)
   * [source code](python/raindrops/raindrops.py)
   * [test source code](python/raindrops/raindrops_test.py)
+  
+* High scores:
+  * [description](python/high-scores/README.md)
+  * [source code](python/high-scores/high_scores.py)
+  * [test source code](python/high-scores/high_scores_test.py)
 
 
 ## License
