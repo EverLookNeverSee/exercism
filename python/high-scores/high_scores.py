@@ -8,5 +8,7 @@ def latest(scores: List) -> int:
 def personal_best(scores: List) -> int:
     return sorted(scores)[-1]
 
-def personal_top_three(scores):
-    pass
+
+def personal_top_three(scores: List) -> List:
+    scores = sorted(scores)[::-1]
+    return scores[0:3]
