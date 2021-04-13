@@ -1,5 +1,5 @@
-def latest(scores):
-    pass
+from typing import List
+
 
 
 def personal_best(scores):
