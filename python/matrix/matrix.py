@@ -5,7 +5,7 @@ class Matrix:
         self.columns = [list(elements) for elements in zip(*self.rows)]
 
     def row(self, index):
-        pass
+        return self.rows[index - 1]
 
     def column(self, index):
-        pass
+        return self.columns[index - 1]
