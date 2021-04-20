@@ -26,6 +26,11 @@ Milad Sadeghi DM : [@EverLookNeverSee](https://github.com/EverLookNeverSee)
   * [description](python/high-scores/README.md)
   * [source code](python/high-scores/high_scores.py)
   * [test source code](python/high-scores/high_scores_test.py)
+  
+* Matrix:
+  * [description](python/matrix/README.md)
+  * [source code](python/matrix/matrix.py)
+  * [tests](python/matrix/matrix_test.py)
 
 
 ## License
