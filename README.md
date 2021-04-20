@@ -10,22 +10,22 @@ Milad Sadeghi DM : [@EverLookNeverSee](https://github.com/EverLookNeverSee)
 * Hello world:
   * [description](python/hello-world/README.md)
   * [source code](python/hello-world/hello_world.py)
-  * [test source code](python/hello-world/hello_world_test.py)
+  * [tests](python/hello-world/hello_world_test.py)
   
 * Two-fer:
   * [description](python/two-fer/README.md)
   * [source code](python/two-fer/two_fer.py)
-  * [test source code](python/two-fer/two_fer_test.py)
+  * [tests](python/two-fer/two_fer_test.py)
   
 * Raindrops:
   * [description](python/raindrops/README.md)
   * [source code](python/raindrops/raindrops.py)
-  * [test source code](python/raindrops/raindrops_test.py)
+  * [tests](python/raindrops/raindrops_test.py)
   
 * High scores:
   * [description](python/high-scores/README.md)
   * [source code](python/high-scores/high_scores.py)
-  * [test source code](python/high-scores/high_scores_test.py)
+  * [tests](python/high-scores/high_scores_test.py)
   
 * Matrix:
   * [description](python/matrix/README.md)
