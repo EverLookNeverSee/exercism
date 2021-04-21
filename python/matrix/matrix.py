@@ -1,3 +1,6 @@
+from typing import List
+
+
 class Matrix:
     def __init__(self, matrix_string):
         self.rows = [[int(n) for n in row.split(" ")]
