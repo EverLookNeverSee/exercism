@@ -31,6 +31,11 @@ Milad Sadeghi DM : [@EverLookNeverSee](https://github.com/EverLookNeverSee)
   * [description](python/matrix/README.md)
   * [source code](python/matrix/matrix.py)
   * [tests](python/matrix/matrix_test.py)
+  
+* Hamming:
+  * [description](python/hamming/README.md)
+  * [source code](python/hamming/hamming.py)
+  * [tests](python/hamming/hamming_test.py)
 
 
 ## License
